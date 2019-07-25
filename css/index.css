@@ -245,7 +245,9 @@ ul {
         height: auto;
     }
 
-
+    footer {
+        padding-left: 2%;
+    }
 }
 
 
@@ -315,6 +317,7 @@ ul {
     .bodytxt div{
         margin: 15px 0;
     }
+
     footer {
         padding-left: 2%;
     }
